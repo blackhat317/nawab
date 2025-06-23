@@ -175,7 +175,7 @@
   <img src="https://github.com/NawabXD/NAWAB-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 MAWAB STATUS
+## 👑 NAWAB STATUS
 
 ```diff
 + Project Status: Active
